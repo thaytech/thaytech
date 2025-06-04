@@ -2,7 +2,7 @@
 
 👀 Estou interessado(a) em tecnologia, programação e como ela pode transformar carreiras
 
-🌱 Atualmente estou aprendendo Python (sou iniciante e animada(o) para evoluir!)
+🌱 Atualmente estou aprendendo Python (sou iniciante e animada para evoluir!)
 
 💞️ Estou procurando colaborar em projetos simples, ideais para quem está começando e quer aprender na prática
 

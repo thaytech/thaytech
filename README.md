@@ -24,9 +24,13 @@
 
 📫 Me encontre:
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/thayna-duarte-090168368)
-[![Email](https://img.shields.io/badge/-Email-red?style=flat&logo=gmail)](thaynad781@gmail.com)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaynad781@gmail.com)
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=SEUUSUARIO&show_icons=true&theme=radical)
+## 📊 Estatísticas do GitHub
+
+![Estatísticas da Thayna](https://github-readme-stats.vercel.app/api?username=thaytech&show_icons=true&theme=radical&hide_title=true)
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=thaytech&layout=compact&langs_count=6&theme=radical&hide_title=true)
 
 
 

@@ -4,6 +4,7 @@
 🚀 Apaixonada por tecnologia, dados e automações
 
 💻 Tecnologias que uso
+
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
 📬 Entre em contato comigo

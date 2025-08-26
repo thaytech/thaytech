@@ -22,8 +22,9 @@
 ### 🐍 Tecnologias com Python
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](#)
 
-📫 Me encontre:
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/thayna-duarte-090168368)
+## 📬 Entre em contato comigo
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thayna-duarte-090168368)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thaynad781@gmail.com)
 
 ## 📊 Estatísticas do GitHub

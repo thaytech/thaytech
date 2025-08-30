@@ -1,6 +1,6 @@
  👋 Olá! Eu sou a Thayna Duarte
 
-💻 Desenvolvedora Python  
+💻Python  
 🚀 Apaixonada por tecnologia, dados e automações
 
 💻 Tecnologias que uso

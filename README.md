@@ -1,7 +1,5 @@
  👋 Olá! Eu sou a Thayna Duarte
 
-💻Python  
-🚀 Apaixonada por tecnologia
 
 💻 Tecnologias que uso
 

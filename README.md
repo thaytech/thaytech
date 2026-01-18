@@ -1,8 +1,3 @@
-![Snake animation](https://raw.githubusercontent.com/thaytech/thaytech/output/github-contribution-grid-snake.svg)
-
-
-
-
 <h1 align="center">Olá! Eu sou a Thayna Duarte 👋</h1>
 
 <p align="center">

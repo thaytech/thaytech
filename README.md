@@ -1,4 +1,4 @@
-![Snake animation](https://github.com/thaytech/thaytech/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/thaytech/thaytech/output/github-contribution-grid-snake.svg)
 
 
 

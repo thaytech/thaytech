@@ -20,7 +20,7 @@ Programadora Júnior • Tecnologia da Informação • Em constante aprendizado
 
 ## 💡 Sobre mim
 - 👩‍💻 Programadora Júnior na **Plural Indústria Gráfica**
-- 🎓 Ingressante em **Análise e Desenvolvimento de Sistemas **
+- 🎓 Ingressante em **Análise e Desenvolvimento de Sistemas**
 - 📚 Estudando **C# (Windows Forms)** e **SQL**
 - 🐍 Conhecimentos em **Python (básico e intermediário)**
 - 🌱 Focada em aprender bem os fundamentos e evoluir como desenvolvedora
